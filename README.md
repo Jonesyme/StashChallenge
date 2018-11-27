@@ -5,9 +5,7 @@
 * **Language:** Swift 4.2
 
 #### Brief Notes
-I did not use any 3rd-party libraries - not that they wouldn't have been useful - I simply felt like making my life more difficult.
-
-Hope you don't mind that I modified the achievements.json file to fetch the background images from my personal server.  Just didn't seem fair loading them locally.  
+I did not use any 3rd-party libraries - not that they wouldn't have been useful - I simply felt like making my life more difficult. Hope you don't mind that I modified the achievements.json file to fetch the background images from my personal server.  Just didn't seem fair loading them locally.  
 
 If I had more time I would make the networking calls more generic/reusable and max out the code coverage but alas...
 
