@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "status": 200,
+  "overview": {
+    "title": "Smart Investing"
+  },
+  "achievements": [
+    {
+      "id": 4,
+      "level": "1",
+      "progress": 10,
+      "total": 50,
+      "bg_image_url": "http://www.dreamwaresys.com/api/stash/bgimage1.png",
+      "accessible": true
+    },
+    {
+      "id": 3,
+      "level": "2",
+      "progress": 0,
+      "total": 50,
+      "bg_image_url": "http://www.dreamwaresys.com/api/stash/bgimage2.png",
+      "accessible": false
+    },
+    {
+      "id": 5,
+      "level": "3",
+      "progress": 0,
+      "total": 50,
+      "bg_image_url": "http://www.dreamwaresys.com/api/stash/bgimage3.png",
+      "accessible": false
+    },
+    {
+      "id": 6,
+      "level": "4",
+      "progress": 33,
+      "total": 50,
+      "bg_image_url": "http://www.dreamwaresys.com/api/stash/bgimage4.png",
+      "accessible": false
+    },
+    {
+      "id": 7,
+      "level": "5",
+      "progress": 12,
+      "total": 50,
+      "bg_image_url": "http://www.dreamwaresys.com/api/stash/bgimage5.png",
+      "accessible": false
+    }
+  ]
+}
