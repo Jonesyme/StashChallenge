@@ -1,4 +1,4 @@
-#### Stash iOS Coding Challenge
+#### iOS Coding Challenge
 * **Author:** Mike Jones
 * **Date:** November 27, 2018
 * **Compiler:** XCode 10.0
